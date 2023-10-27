@@ -1,0 +1,21 @@
+
+
+
+=>we started to buliding our components
+    ->then eventually adding the data to the component may be start with
+     label and amount and add eventualy add currency 
+      label,
+    amount,
+    onAmountChange,
+    onCurrencyChange,
+    currencyOptions = [],
+    selectedCurrency ="usd",
+    amountDisabled =false,
+    currencyDisabled=false,
+    className ="",
+
+->then create input fields and select option
+->we study about  useId
+->we learned about index way of importing component from component file itself its will eventully in the long run this will make your code more scalable
+->then cutomized hook  to help me to design faster
+->app.jsx crate states 
